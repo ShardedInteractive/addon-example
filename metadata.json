@@ -1,0 +1,7 @@
+{
+    "name": "Example Addon",
+    "author": "Sharded Interactive",
+    "subtitle": "Sharded Addon Example, 3/16/2025",
+    "version": "1.0.0",
+    "description": "An example addon for the sharded bot template."
+}
